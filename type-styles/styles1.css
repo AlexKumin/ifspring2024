@@ -1,0 +1,43 @@
+html{
+    color:rgb(200, 130, 124);
+    font-family: Ubuntu;
+    font-size: 15pt;
+    
+}
+section{
+
+    margin: 5em 0;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+}
+
+h1{
+    font-size: 40pt;
+}
+
+
+.space{
+    letter-spacing: 0.3em;
+}
+
+.morespace{
+    letter-spacing: -.06em;
+}
+
+.overline{
+
+    text-decoration: overline;
+ }
+
+ .capitalize{
+
+    text-transform: capitalize;
+ }
+
+ body{
+    background-color: blanchedalmond;
+ }
+
